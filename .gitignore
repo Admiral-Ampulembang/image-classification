@@ -1,0 +1,13 @@
+# Dataset
+dataset/
+archive/
+
+# Trained model
+*.h5
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
